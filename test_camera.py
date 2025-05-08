@@ -1,3 +1,5 @@
+# Test your camera with this program.
+
 import cv2
 
 cap = cv2.VideoCapture(0)
